@@ -1,6 +1,0 @@
-
-(gnome-text-editor:74173): Gtk-WARNING **: 19:30:15.796: Trying to snapshot GtkGizmo 0x55fbfb23e1f0 without a current allocation
-
-(gnome-text-editor:74173): Gtk-CRITICAL **: 19:35:19.018: real_set_mark: assertion '_gtk_text_iter_get_btree (where) == tree' failed
-
-(gnome-text-editor:74173): Gtk-CRITICAL **: 19:35:19.018: real_set_mark: assertion '_gtk_text_iter_get_btree (where) == tree' failed
